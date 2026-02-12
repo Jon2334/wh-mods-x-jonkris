@@ -30,7 +30,7 @@
     "@adiwajshing/baileys": "^5.0.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@arugaz/ai2d": "^1.0.1-z.9",
-    "@bochilteam/scraper": "^3.0.4",
+    "@bochilteam/scraper": "^3.0.0",
     "@ibaraki-douji/pixivts": "^3.2.0",
     "@vitalets/google-translate-api": "^9.1.0",
     "@whiskeysockets/baileys": "^6.7.16",
