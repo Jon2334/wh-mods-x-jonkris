@@ -33,10 +33,10 @@ import {
   mongoDBV2
 } from './lib/mongoDB.js'
 import store from './lib/store-single.js'
+const baileysMain = await import('@whiskeysockets/baileys')
 const {
-  //useSingleFileAuthState,
   DisconnectReason
-} = (await import('@whiskeysockets/baileys')).default
+} = baileysMain.default || baileysMain
 
 const { CONNECTING } = ws
 const { chain } = lodash
