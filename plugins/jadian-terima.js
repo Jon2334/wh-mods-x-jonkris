@@ -1,4 +1,4 @@
-import { areJidsSameUser } from '@adiwajshing/baileys'
+import { areJidsSameUser } from '@whiskeysockets/baileys'
 
 let handler = async (m, { conn, text, participants, groupMetadata }) => {
 	if(isNaN(text)) {

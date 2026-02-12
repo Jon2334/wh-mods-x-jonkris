@@ -1,5 +1,5 @@
 import fs from 'fs'
-let { MessageType } = (await import('@adiwajshing/baileys')).default
+let { MessageType } = (await import('@whiskeysockets/baileys')).default
 let handler = m => m
 
 handler.all = async function (m, { isBlocked }) {

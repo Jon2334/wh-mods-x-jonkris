@@ -1,4 +1,4 @@
-import { areJidsSameUser } from '@adiwajshing/baileys'
+import { areJidsSameUser } from '@whiskeysockets/baileys'
 let toM = a => '@' + a.split('@')[0]
 let handler = async (m, { conn, usedPrefix, text, participants, groupMetadata}) => {
 if(!text) {

@@ -9,7 +9,7 @@ function pickRandom(list) {
      return list[Math.floor(Math.random() * list.length)]
      }
    
-let { MessageType } = (await import('@adiwajshing/baileys')).default
+let { MessageType } = (await import('@whiskeysockets/baileys')).default
 import fetch from 'node-fetch'
 
 //---------------------------------

@@ -1,4 +1,4 @@
-let { MessageType } = (await import('@adiwajshing/baileys')).default
+let { MessageType } = (await import('@whiskeysockets/baileys')).default
 let handler = async (m, { conn }) => {
 
 let name = global.db.data.users[m.sender].name

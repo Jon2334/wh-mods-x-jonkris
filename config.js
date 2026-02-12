@@ -82,7 +82,7 @@ global.linkgithub = sgh // EDIT LINK GITHUB DI global.sgh
 global.zenzkey = 'b8040941f7'
 global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182c16
 /*OpenAi*/
-global.openaikey = "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"
+global.openaikey = "API_Key"
 
 /*============== STAFF ==============*/
 global.owner = [
@@ -163,7 +163,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘jonsilaban-V1 ˘ฅ ꒱ ‧₊˚�
 global.wm3 = "⫹⫺ jonkris-V1"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By jonsilaban12
+global.titlebot = `⫹⫺ WhatsApp Bot | By jonsilaban12`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = "jonsilaban 乂 jonkris BOT"
 

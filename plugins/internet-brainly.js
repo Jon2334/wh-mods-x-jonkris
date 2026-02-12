@@ -1,4 +1,4 @@
-import * as baileys from '@adiwajshing/baileys'
+import * as baileys from '@whiskeysockets/baileys'
 import { Brainly } from 'brainly-scraper-v2'
 import fetch from 'node-fetch'
 let brainly = new Brainly('id')
