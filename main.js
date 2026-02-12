@@ -36,7 +36,7 @@ import store from './lib/store-single.js'
 const baileysMain = await import('@whiskeysockets/baileys')
 const {
   DisconnectReason
-} = baileysMain.default || baileysMain
+} = baileysMain.default
 
 const { CONNECTING } = ws
 const { chain } = lodash
