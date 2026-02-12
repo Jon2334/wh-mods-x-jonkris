@@ -1,6 +1,6 @@
 import axios from "axios"
 import fetch from "node-fetch"
-import * as cheerio from 'cheerio'
+import * as cheerio from "cheerio"
 import got from "got"
 
 let handler = async (m, { conn, text, args, usedPrefix, command }) => {
