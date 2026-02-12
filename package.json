@@ -26,9 +26,9 @@
   ],
   "author": "wahid",
   "license": "GPL-3.0-or-later",
-  "dependencies": {
+"dependencies": {
     "@adiwajshing/baileys": "^5.0.0",
-    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "@whiskeysockets/baileys": "6.7.16",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^4.0.22-alpha.0",
     "@vitalets/google-translate-api": "^9.1.0",
